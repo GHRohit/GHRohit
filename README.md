@@ -49,5 +49,6 @@ Here are some of the projects I'm proud of:
 You can connect with me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/mirohit/)
+- [LeetCode](https://leetcode.com/newChallenge/)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat. Happy coding!
