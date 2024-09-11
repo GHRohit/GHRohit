@@ -1,54 +1,46 @@
-# Hi there! 👋
+# Rohit Mishra
+ ✉️ urohitmishra@gmail.com | [🔗 LinkedIn](https://linkedin.com/in/mirohit) | [🐙 Leetcode](https://leetcode.com/u/newChallenge/)
 
-I'm Rohit Mishra, and this is my corner of GitHub where I explore the fascinating world of Python development, AI, and machine learning.
 
-## About Me
+## SKILLS
+**Languages**: Python, C++, Java, JavaScript, HTML/CSS  
+**Framework & Libraries**: Flask, Django, React, Pandas, NumPy, Scikit-learn  
+**Developer Tools**: VS Code, Jupyter Notebooks, Git, Tableau  
+**Databases**: MySQL, MongoDB  
+**Familiar**: jQuery, JDBC, MongoDB, NLP, Computer Vision, Reinforcement Learning  
+**Soft Skills**: Team Collaboration, Adaptability, Continuous Learning, Resilience, Flexibility  
 
-- 🌱 Mastering the art of Data Structures and Algorithms, with a fresh dive into the realms of ML and AI.
+## PROJECTS
 
-- 🔭 Actively working on AI/ML projects.
+### Face Recognition Based Attendance  
+**Technologies**: Flask, OpenCV, Scikit-learn, HTML/CSS, JavaScript, MySQL  
+- Developed a web-based attendance system leveraging facial recognition technology  
+- Implemented real-time face detection using advanced computer vision algorithms  
+- Designed an intuitive web interface, significantly reducing manual data entry requirements  
+- Optimized the image processing pipeline to enhance system responsiveness  
 
-- 💬 Questions about DSA, OOPs, Python, C++, or SQL? Ask away!
+### College Enquiry Chatbot  
+**Technologies**: Flask, NLTK, Python, HTML/CSS, JavaScript, NumPy, Keras  
+- Created an AI-powered chatbot to manage student inquiries efficiently  
+- Utilized Natural Language Processing (NLP) to enhance query comprehension accuracy  
+- Developed a custom training dataset to improve response relevance  
+- Implemented a feedback system for continuous improvement of chatbot responses  
 
-- 📫 Reach me at urohitmishra@gmail.com for inquiries and collaborations.
+### Minesweeper Game  
+**Technologies**: Python, Tkinter  
+- Implemented dynamic mine placement, cell revealing logic, and win/loss conditions for engaging gameplay  
+- Created a user-friendly interface featuring mine icons, a timer, and a scoring system  
+- Utilized object-oriented programming principles for maintainable and readable code  
+- Added a help window, restart options, and high score tracking to improve user experience  
 
-## My GitHub Stats
+## CERTIFICATION
+- **Computer System Security by Prutor@IITK**: August 2021 - March 2022
+- **Student Ambassador by Prutor@IITK**: September 2020 – February 2021  
+  
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHRohit&show_icons=true&theme=radical)](https://github.com/GHRohit)
-
-## Languages and Tools
-
-[<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48">](https://www.cplusplus.com/)
-[<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48">](https://www.python.org/)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48">](https://www.java.com/)
-[<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48">](https://www.sql.org/)
-[<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="48">](https://flask.palletsprojects.com/en/2.1.x/)
-[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48">](https://git-scm.com/)
-[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48">](https://www.tableau.com/)
-[<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI/Machine Learning" width="48">](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-
-<!--
-## Projects
-
-Here are some of the projects I'm proud of:
-
-- [Project 1]: [Link to Project 1]
-- [Project 2]: [Link to Project 2]
-- [Project 3]: [Link to Project 3]
-
-## Latest Blog Posts
-
-- [Blog Post 1]: [Link to Blog Post 1]
-- [Blog Post 2]: [Link to Blog Post 2]
-- [Blog Post 3]: [Link to Blog Post 3]
--->
-## Connect with Me
-
-You can connect with me on the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/mirohit/)
-- [LeetCode](https://leetcode.com/newChallenge/)
-
-Feel free to explore my repositories and reach out if you have any questions or just want to chat. Happy coding!
+## LEADERSHIP / EXTRACURRICULAR
+**Student representative of Prutor@IITK**: September 2020 - February 2021  
+- Helped students resolve coursework-related doubts  
+- Functioned as a liaison between students and faculty to provide support and assistance  
+- Organized and facilitated student meetings, gathering feedback to address concerns and drive positive change  
+- Contributed to efforts aimed at enhancing the overall student experience  
